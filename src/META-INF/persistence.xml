@@ -10,6 +10,8 @@
    <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
  
    <class>br.com.model.Contato</class>
+   <class>br.com.model.Telefone</class>
+   <class>br.com.model.Email</class>
  
    <properties>
       <!-- Driver JDBC para conexão com o MySQL -->
